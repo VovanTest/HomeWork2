@@ -29,7 +29,8 @@ bin/
 .DS_Store
 .idea
 Out/
-/src.iml
+/src.iml/
+HomeWork2.iml
 
 
 
